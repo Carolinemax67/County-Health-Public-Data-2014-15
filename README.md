@@ -15,18 +15,22 @@ This repository was created for Prof. Gotzler's English 105 class in the Spring 
 - Individuals could use this repository for educational purposes.
 - Can be used by general public to create a subset for the specific county they live in.
 
-## Data VIsualization
+## Data Visualization
   
 - The subset created in Python3 was slightly altered in Microsoft Excel
     - Document was condensed to show equal number of rows to get a more fair average
     - An "average" side column was added to show difference in state values
  - The raw data, microsoft excel subset, and data visualization can all be accessed in the files above.
 
- - Visualization was created using Datawrapper. You can visit their website here:
-   [https://www.datawrapper.de] 
-      - *Note: Datawrapper requires you to create a free account before using*
+ - Visualization was created using Tableau. Tableau is an application that you can dowload for free!
+ - You can visit the website to install, here:
+https://www.tableau.com/tft/activation 
+      - *Note: Tableau requires you to create a free account before using*
   
+   <img width="927" alt="Screenshot 2024-04-23 at 11 57 06 PM" src="https://github.com/Carolinemax67/Uninsured-Adults-in-Kansas-and-Colorado/assets/167785211/863ff00a-c8e0-4e11-a4d0-d2cc8e821e94">
+
    
+
 
  
 
