@@ -9,8 +9,6 @@ This repository was created for Prof. Gotzler's English 105 class in the Spring 
   - The purpose of this repository is to showcase the differences in uninsured adults present in two midwestern states. Both of which vary in their political thinking and ways of life.
   - This data could be used to highlight the differences in state governments and their welfare programs. This can also be used for people interested in this kiind of subject. 
 
-## Where did this data come from?
-
 ## What could this data be used for?
 
 - This data could be used by governments or insurance companies to show areas of improve in relation to another state.
