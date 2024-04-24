@@ -29,10 +29,10 @@ This repository was created for Prof. Gotzler's English 105 class in the Spring 
 https://www.tableau.com/tft/activation 
       - *Note: Tableau requires you to create a free account before using*
   
-  <img width="927" alt="Screenshot 2024-04-23 at 11 57 06 PM" src="https://github.com/Carolinemax67/Uninsured-Adults-in-Kansas-and-Colorado/assets/167785211/863ff00a-c8e0-4e11-a4d0-d2cc8e821e94">
-  <img width="916" alt="Screenshot 2024-04-24 at 12 05 11 AM" src="https://github.com/Carolinemax67/Uninsured-Adults-in-Kansas-and-Colorado/assets/167785211/049ede1c-994a-4bb9-86a8-31e54e4dd765">
+ 
+<img width="924" alt="Screenshot 2024-04-24 at 10 35 28 AM" src="https://github.com/Carolinemax67/Uninsured-Adults-in-Kansas-and-Colorado/assets/167785211/40dea5ff-a201-46c9-84cb-85589fa0b7e4">
+<img width="925" alt="Screenshot 2024-04-24 at 10 36 32 AM" src="https://github.com/Carolinemax67/Uninsured-Adults-in-Kansas-and-Colorado/assets/167785211/b9e7243f-ddcb-4273-a9d8-c311d8e15800">
 
-   
 
    
 
